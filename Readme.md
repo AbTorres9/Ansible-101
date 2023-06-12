@@ -30,7 +30,7 @@ This repository contains the code for the Ansible 101 workshop.
 - `vi /etc/ansible/hosts`
 
 ```bash
-[web]
+[webservers]
 192.168.2.1
 192.168.2.2
 ```
